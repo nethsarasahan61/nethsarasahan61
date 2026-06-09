@@ -21,20 +21,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="www.linkedin.com/in/sahan-nethsara-707964370" target="blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
-</a>
-<a href="www.linkedin.com/in/sahan-nethsara-707964370" target="blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
-</a>
-
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -75,6 +61,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </a>
 
+</p>
+
+---
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="www.linkedin.com/in/sahan-nethsara-707964370" target="blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
+</a>
 </p>
 
 ---
