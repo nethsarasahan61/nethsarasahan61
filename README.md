@@ -21,6 +21,16 @@
 
 ---
 
+### 🎯 Goals for 2026
+
+- 🚀 Build more real-world projects
+- 📚 Improve my JavaScript skills
+- 🌐 Learn modern frameworks and backend development
+- 🤝 Contribute to open-source projects
+- 💡 Become a full-stack developer
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -57,46 +67,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </a>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-</a>
-
-</p>
-
----
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="www.linkedin.com/in/sahan-nethsara-707964370" target="blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
-</a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nethsarasahan61&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethsarasahan61&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethsarasahan61&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethsarasahan61&theme=tokyonight" />
-</p>
-
----
-
-### 🎯 Goals for 2026
-
-- 🚀 Build more real-world projects
-- 📚 Improve my JavaScript skills
-- 🌐 Learn modern frameworks and backend development
-- 🤝 Contribute to open-source projects
-- 💡 Become a full-stack developer
 
 ---
 
@@ -107,6 +89,22 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
 
 ⭐ Don't forget to check out my repositories!
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="www.linkedin.com/in/sahan-nethsara-707964370" target="blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
+</a>
+<a href="https://www.facebook.com/tommyggz001" target="blank">
+<img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/inner.light3/" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
+
+---
 
 </div>
 ```
