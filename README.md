@@ -31,9 +31,9 @@
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
@@ -71,7 +71,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center"> 📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethsarasahan61&theme=tokyonight" />
 </p>
@@ -81,16 +81,7 @@
 </p>
 
 ---
-
-<div align="center">
-
-### Thanks for visiting my profile 👋
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
-
-⭐ Don't forget to check out my repositories!
-
-### 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">
 <a href="https://www.facebook.com/tommyggz001" target="blank">
@@ -104,6 +95,16 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👋
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+
+⭐ Don't forget to check out my repositories!
 
 ---
 
