@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sahan Nethsra</h1>
+<h1 align="left">Hi 👋, I'm Sahan Nethsara</h1>
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 <h3 align="left">A beginner Developper passionate about software development and problem-solving</h3>
 
