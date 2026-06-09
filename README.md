@@ -93,11 +93,12 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/sahan-nethsara-707964370" target="blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
-</a>
 <a href="https://www.facebook.com/tommyggz001" target="blank">
 <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="www.linkedin.com/in/sahan-nethsara-707964370" target="blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
 </a>
 <a href="https://www.instagram.com/inner.light3/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -107,7 +108,7 @@
 ---
 
 </div>
-```
+
 
 <!--
 **nethsarasahan61/nethsarasahan61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
