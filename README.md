@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sahan Nethsra</h1>
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
-<h3 align="center">A beginner Developper passionate about software development and problem-solving</h3>
+<h3 align="left">A beginner Developper passionate about software development and problem-solving</h3>
 
 - 🔭 I’m currently working on **my personal portfolio**
 
@@ -11,6 +11,8 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **nethsarasahan61@gmail.com**
+  
+- 😄 Pronouns **He/Him**
 
 
 <p align="left">
