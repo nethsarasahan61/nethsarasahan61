@@ -30,9 +30,11 @@
 - 💡 Become a full-stack developer
 
 ---
+<div align="center">
+  
+### 🛠️ Languages and Tools
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-
+</div>
 <p align="center">
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -70,8 +72,11 @@
 </p>
 
 ---
+<div align="center">
+  
+### 📊 GitHub Stats
 
-<h3 align="center"> 📊 GitHub Stats</h3>
+</div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethsarasahan61&theme=tokyonight" />
 </p>
@@ -81,7 +86,11 @@
 </p>
 
 ---
-<h1 align="center">🌐 Connect With Me</h1>
+<div align="center">
+  
+### 🌐 Connect With Me
+
+</div>
 
 <p align="center">
 <a href="https://www.facebook.com/tommyggz001" target="blank">
