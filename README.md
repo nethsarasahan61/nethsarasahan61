@@ -97,10 +97,10 @@
 <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="www.linkedin.com/in/sahan-nethsara-707964370" target="blank">
+<a href="https://www.linkedin.com/in/sahan-nethsara-707964370/" target="blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
 </a>
-<a href="https://www.instagram.com/inner.light3/" target="blank">
+<a href="https://www.instagram.com/maxdontcare.3/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
